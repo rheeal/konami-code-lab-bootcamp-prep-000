@@ -19,7 +19,7 @@ function init() {
       index++;
       
       if(index === codes.length){
-        alert('hkadskja');
+        alert('Yay!');
         index = 0;
       }
     } else {
